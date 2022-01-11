@@ -1,6 +1,6 @@
 # Javascript-Calculator
 Develop Web based Calculator using Html, Css and JavaScript
- https://613b6ba68ffb92e7916491f5--adoring-shaw-a22b87.netlify.app/
+ https://adoring-shaw-a22b87.netlify.app/
 
  It is simple project to practice JavaScript functionalities using HTML and CSS with simple UI having a custom textbox which is disabled and used as screen for calculator and have normal html buttons that's used to create number from 0 to 9 and all basic four calculation expressions(Division, Multiplication, Subtraction and Addition).
 
